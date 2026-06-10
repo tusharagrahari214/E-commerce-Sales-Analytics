@@ -1,8 +1,6 @@
 # E-Commerce Sales Analytics Dashboard
 
-[![Streamlit App](https://static.streamlit.io/badge-gradient.svg)](https://tushar-e-commerce-sales-analytics.streamlit.app/)
-
-**Live Web Application Link**: [tushar-e-commerce-sales-analytics.streamlit.app](https://tushar-e-commerce-sales-analytics.streamlit.app/)
+🌐 **Live Web Application Link**: [tushar-e-commerce-sales-analytics.streamlit.app](https://tushar-e-commerce-sales-analytics.streamlit.app/)
 
 A complete end-to-end data analytics and customer segmentation dashboard for e-commerce transactional data, utilizing the Online Retail dataset to derive actionable business metrics, segment customers via RFM analysis, perform cohort retention tracking, and cluster customer profiles using KMeans machine learning.
 
