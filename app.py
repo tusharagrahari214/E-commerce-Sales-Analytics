@@ -17,6 +17,16 @@ st.set_page_config(
 # ── Load data and models ──────────────────────────────────────
 @st.cache_data
 def load_data():
+    # Automatically download the data if it is missing on the cloud server
+    if not os.path.exists('data/OnlineRetail.xlsx') and not os.path.exists('data/OnlineRetail.csv'):
+        os.makedirs('data', exist_ok=True)
+        import urllib.request
+        try:
+            url = "https://github.com/erkansirin78/datasets/raw/master/OnlineRetail.csv"
+            urllib.request.urlretrieve(url, 'data/OnlineRetail.csv')
+        except Exception as download_error:
+            st.error(f"Failed to fetch dataset: {download_error}")
+
     try:
         df = pd.read_excel('data/OnlineRetail.xlsx', engine='openpyxl')
     except Exception as e:
