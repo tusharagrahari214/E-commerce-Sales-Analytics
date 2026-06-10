@@ -1,6 +1,6 @@
 # E-Commerce Sales Analytics Dashboard
 
-[![Streamlit App](https://static.streamlit.io/badge-gradient-gradient.svg)](https://tushar-e-commerce-sales-analytics.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badge-gradient.svg)](https://tushar-e-commerce-sales-analytics.streamlit.app/)
 
 **Live Web Application Link**: [tushar-e-commerce-sales-analytics.streamlit.app](https://tushar-e-commerce-sales-analytics.streamlit.app/)
 
