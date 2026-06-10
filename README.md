@@ -1,5 +1,9 @@
 # E-Commerce Sales Analytics Dashboard
 
+[![Streamlit App](https://static.streamlit.io/badge-gradient-gradient.svg)](https://tushar-e-commerce-sales-analytics.streamlit.app/)
+
+**Live Web Application Link**: [tushar-e-commerce-sales-analytics.streamlit.app](https://tushar-e-commerce-sales-analytics.streamlit.app/)
+
 A complete end-to-end data analytics and customer segmentation dashboard for e-commerce transactional data, utilizing the Online Retail dataset to derive actionable business metrics, segment customers via RFM analysis, perform cohort retention tracking, and cluster customer profiles using KMeans machine learning.
 
 ## Business Problem
@@ -89,11 +93,11 @@ Open the local URL (usually `http://localhost:8501`) in your browser to explore 
 
 ## Key Business Metrics (KPIs)
 
-*   **Total Revenue:** £9,747,747.93 (approx. £9.75M)
-*   **Total Orders:** 22,064 orders
-*   **Total Customers:** 4,338 unique customers
-*   **Total Products:** 3,877 unique stock items
-*   **Avg Order Value (AOV):** £419.00
+*   **Total Revenue:** £10,666,684.54 (approx. £10.67M)
+*   **Total Orders:** 19,960 orders
+*   **Total Customers:** 4,339 unique customers
+*   **Total Products:** 3,922 unique stock items
+*   **Avg Order Value (AOV):** £534.40
 *   **Top Country (by Revenue):** United Kingdom (represents ~84% of revenue)
 
 ---
