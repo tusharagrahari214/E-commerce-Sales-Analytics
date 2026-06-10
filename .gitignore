@@ -1,0 +1,14 @@
+# Raw Data (Users can download it programmatically using download_data.py)
+data/
+
+# Python Caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
